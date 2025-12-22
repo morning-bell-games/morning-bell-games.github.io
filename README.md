@@ -1,1 +1,1 @@
-# morningbellgames.github.io
+# morning-bell-games.github.io
