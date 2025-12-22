@@ -5,7 +5,11 @@ body {
 
 header {
   text-align: center;
+}
+
+nav {
   background-color: orange;
+  border-radius: 2px;
 }
 
 main {
@@ -39,7 +43,7 @@ header a {
 
 footer {
   text-align: center;
-  background-color: orange;
+  background-color: black;
 }
 
 hr {
