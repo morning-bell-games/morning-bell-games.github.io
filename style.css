@@ -22,7 +22,7 @@ h2 {
 }
 
 a {
-  color: DarkOrange;
+  color: orange;
   text-decoration: none;
 }
 
@@ -41,7 +41,7 @@ hr {
 }
 
 .title {
-  background-color: DarkOrange;
+  background-color: chocolate;
   padding: 1px 0px 1px 20px;
   border-radius: 15px 15px 0px 0px;
 }
@@ -53,7 +53,7 @@ hr {
   margin-bottom: 20px;
 
 .nav-links {
-  background-color: DarkOrange;
+  background-color: chocolate;
   border-radius: 5px;
 }
 
