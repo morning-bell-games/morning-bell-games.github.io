@@ -20,6 +20,7 @@ h2 {
 
 .title {
   background-color: orange;
+  padding: 20px;
 }
 
 a {
@@ -33,4 +34,9 @@ header a {
 footer {
   text-align: center;
   background-color: orange;
+}
+
+hr {
+  background-color: white;
+  border: none;
 }
