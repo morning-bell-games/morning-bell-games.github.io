@@ -8,11 +8,6 @@ header {
   background-color: black;
 }
 
-nav {
-  background-color: orange;
-  border-radius: 2px;
-}
-
 main {
   width: 720px;
   margin: 20px auto 20px auto;
@@ -56,3 +51,8 @@ hr {
   background-color: black;
   padding-left: 20px;
   border-radius: 0px 0px 5px 5px;
+
+.nav-links {
+  background-color: orange;
+  border-radius: 2px;
+}
