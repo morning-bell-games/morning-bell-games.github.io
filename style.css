@@ -1,5 +1,6 @@
-nav {
+header {
   text-align: center;
+  background-color: orange;
 }
 
 main {
@@ -17,6 +18,11 @@ a {
   color: orange;
 }
 
+header a {
+  color: white;
+}
+
 footer {
   text-align: center;
+  background-color: orange;
 }
