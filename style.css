@@ -1,11 +1,12 @@
 body {
-  background-color: #202020;
+  background-color: #181818;
   color: white;
+  margin: 0px;
 }
 
 header {
   text-align: center;
-  background-color: black;
+  background-color: #050505;
   margin: 0px 20px 0px 20px;
   border-radius: 0px 0px 15px 15px;
   padding-bottom: 5px;
@@ -35,7 +36,7 @@ footer a {
 
 footer {
   text-align: center;
-  background-color: black;
+  background-color: #050505;
   margin: 0px 20px 0px 20px;
   border-radius: 15px 15px 0px 0px;
   padding-top: 5px;
@@ -54,7 +55,7 @@ hr {
 }
 
 .item {
-  background-color: black;
+  background-color: #050505;
   padding: 5px 0px 5px 20px;
   border-radius: 0px 0px 15px 15px;
   margin-bottom: 5px;
