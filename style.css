@@ -20,13 +20,13 @@ h2 {
 
 .title {
   background-color: orange;
-  padding: 20px;
-  border-radius: 10px 10px 0px 0px;
+  padding: 5px;
+  border-radius: 5px 5px 0px 0px;
 }
 
 .in-development-item {
   background-color: #404040;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 0px 0px 5px 5px;
 
 a {
   color: orange;
