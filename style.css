@@ -24,12 +24,13 @@ h2 {
 
 .title {
   background-color: orange;
-  padding: 5px;
+  padding-left: 20px;
   border-radius: 5px 5px 0px 0px;
 }
 
 .item {
   background-color: black;
+  padding-left: 20px;
   border-radius: 0px 0px 5px 5px;
 
 a {
