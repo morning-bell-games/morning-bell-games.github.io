@@ -7,7 +7,7 @@ header {
   text-align: center;
   background-color: black;
   margin: 0px 20px 0px 20px;
-  border-radius: 0px 0px 5px 5px;
+  border-radius: 0px 0px 15px 15px;
   padding-bottom: 5px;
 }
 
@@ -37,7 +37,7 @@ footer {
   text-align: center;
   background-color: black;
   margin: 0px 20px 0px 20px;
-  border-radius: 5px 5px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
   padding-top: 5px;
 }
 
@@ -49,16 +49,17 @@ hr {
 
 .title {
   background-color: orange;
-  padding: 5px 0px 5px 20px;
-  border-radius: 5px 5px 0px 0px;
+  padding: 2px 0px 2px 20px;
+  border-radius: 15px 15px 0px 0px;
 }
 
 .item {
   background-color: black;
   padding: 5px 0px 5px 20px;
-  border-radius: 0px 0px 5px 5px;
+  border-radius: 0px 0px 15px 15px;
+  margin-bottom: 5px;
 
 .nav-links {
   background-color: orange;
-  border-radius: 2px;
+  border-radius: 5px;
 }
