@@ -26,14 +26,6 @@ a {
   text-decoration: none;
 }
 
-header a {
-  color: white;
-}
-
-footer a {
-  color: white;
-}
-
 footer {
   text-align: center;
   background-color: #070707;
@@ -63,4 +55,8 @@ hr {
 .nav-links {
   background-color: DarkOrange;
   border-radius: 5px;
+}
+
+.nav-links a {
+  color: white;
 }
