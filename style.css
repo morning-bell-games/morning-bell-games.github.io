@@ -11,7 +11,10 @@ main {
 
 h2 {
   text-align: center;
-  color: orange;
+}
+
+.title {
+  background-color: orange;
 }
 
 a {
