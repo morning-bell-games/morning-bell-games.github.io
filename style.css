@@ -1,5 +1,5 @@
 body {
-  background-color: #202020;
+  background-color: #151515;
   color: white;
 }
 
@@ -28,8 +28,8 @@ h2 {
   border-radius: 5px 5px 0px 0px;
 }
 
-.in-development-item {
-  background-color: #404040;
+.item {
+  background-color: black;
   border-radius: 0px 0px 5px 5px;
 
 a {
