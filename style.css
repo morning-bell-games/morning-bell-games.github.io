@@ -40,6 +40,15 @@ hr {
   height: 1px;
 }
 
+.promo-container {
+  display: flex;
+}
+
+.promo-item {
+  flex-grow: 1;
+  min-height: 500px;
+}
+
 .title {
   background-color: chocolate;
   padding: 1px 0px 1px 20px;
