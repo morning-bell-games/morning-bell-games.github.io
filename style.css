@@ -41,6 +41,10 @@ header a {
   color: white;
 }
 
+footer a {
+  color: white;
+}
+
 footer {
   text-align: center;
   background-color: black;
