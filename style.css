@@ -62,7 +62,7 @@ hr {
 .promo-container {
   display: inline-flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .promo-item {
