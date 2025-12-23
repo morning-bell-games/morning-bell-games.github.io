@@ -59,7 +59,7 @@ button {
   background-color: chocolate;
   border-radius: 5px;
   transition-property: background-color;
-  transition-duration: 2s;
+  transition-duration: 1s;
 }
 
 button:hover {
