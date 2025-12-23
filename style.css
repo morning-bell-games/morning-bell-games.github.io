@@ -60,12 +60,12 @@ hr {
 }
 
 .promo-container {
-  display: inline-flex;
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
 .promo-item {
-  flex: 1 0 280px;
+  flex: 1 0 250px;
 }
 
