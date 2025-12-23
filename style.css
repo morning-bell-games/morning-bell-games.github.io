@@ -60,8 +60,7 @@ hr {
   border-radius: 5px;
   color: white;
   background-color: chocolate;
-  transition: background-color 750ms linear;
-  transition: color 750ms linear;
+  transition: background-color 750ms linear, color 750ms linear;
 }
 
 .nav-links a:hover {
