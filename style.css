@@ -54,7 +54,7 @@ hr {
   border-radius: 0px 0px 15px 15px;
   margin-bottom: 20px;
 
-.nav-links a {
+.nav-links button {
   color: white;
   background-color: chocolate;
   border-radius: 5px;
