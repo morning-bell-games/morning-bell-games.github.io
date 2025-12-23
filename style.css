@@ -60,7 +60,8 @@ hr {
 }
 
 .promo-container {
-   display: flex;
+  display: inline-flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
