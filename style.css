@@ -61,11 +61,11 @@ hr {
 
 .promo-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: space-around;
 }
 
 .promo-item {
-  flex: 1 0 250px;
+  flex: 0 0 250px;
 }
 
