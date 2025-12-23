@@ -54,15 +54,18 @@ hr {
   border-radius: 0px 0px 15px 15px;
   margin-bottom: 20px;
 
-button {
+nav-links a {
+  display: block;
+  width: 300px;
+  padding: 31px 5px;
+  border-radius: 5px;
   color: white;
   background-color: chocolate;
-  border-radius: 5px;
   transition-property: background-color;
   transition-duration: 1s;
 }
 
-button:hover {
+.nav-links a:hover {
   background-color: white;
   color: chocolate;
 }
