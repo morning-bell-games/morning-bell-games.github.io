@@ -77,7 +77,8 @@ hr {
 
 .promo-item {
   flex: 1 0 250px;
-  margin: 0px 10px 0px 10px;
+  margin: 0px 5px 0px 5px;
+  height: 100%;
 }
 
 .pullout {
