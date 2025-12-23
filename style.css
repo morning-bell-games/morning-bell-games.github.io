@@ -57,3 +57,13 @@ hr {
   background-color: chocolate;
   border-radius: 5px;
 }
+
+.promo-container {
+   display: flex;
+  justify-content: center;
+}
+
+.promo-item {
+  flex-grow: 1;
+}
+
