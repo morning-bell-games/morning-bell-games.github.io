@@ -55,9 +55,8 @@ hr {
   margin-bottom: 20px;
 
 nav-links a {
-  display: block;
-  width: 300px;
-  padding: 31px 5px;
+  width: 50px;
+  padding: 10px;
   border-radius: 5px;
   color: white;
   background-color: chocolate;
