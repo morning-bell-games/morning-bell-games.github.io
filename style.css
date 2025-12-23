@@ -7,7 +7,7 @@ body {
 
 header {
   text-align: center;
-  background-color: #070707;
+  background-color: #090909;
   margin: 0px 20px 0px 20px;
   border-radius: 0px 0px 15px 15px;
   padding: 20px 0px 20px 0px;
@@ -29,7 +29,7 @@ a {
 
 footer {
   text-align: center;
-  background-color: #070707;
+  background-color: #090909;
   margin: 0px 20px 0px 20px;
   border-radius: 15px 15px 0px 0px;
   padding: 20px 0px 20px 0px;
@@ -43,13 +43,13 @@ hr {
 
 .title {
   background-color: chocolate;
-  padding: 1px 0px 1px 20px;
+  padding: 1px 0px 1px 0px;
   border-radius: 15px 15px 0px 0px;
   text-align: center;
 }
 
 .item {
-  background-color: #070707;
+  background-color: #090909;
   padding: 5px 0px 5px 20px;
   border-radius: 0px 0px 15px 15px;
   margin-bottom: 20px;
