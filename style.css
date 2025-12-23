@@ -62,8 +62,10 @@ hr {
   background-color: chocolate;
   transition-property: background-color;
   transition-duration: 750ms;
+  transition-timing-function: linear;
   transition-property: color;
   transition-duration: 750ms;
+  transition-timing-function: linear;
 }
 
 .nav-links a:hover {
