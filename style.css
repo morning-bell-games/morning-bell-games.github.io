@@ -60,12 +60,8 @@ hr {
   border-radius: 5px;
   color: white;
   background-color: chocolate;
-  transition-property: background-color;
-  transition-duration: 750ms;
-  transition-timing-function: linear;
-  transition-property: color;
-  transition-duration: 750ms;
-  transition-timing-function: linear;
+  transition: background-color 750ms linear;
+  transition: color 750ms linear;
 }
 
 .nav-links a:hover {
