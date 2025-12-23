@@ -67,5 +67,6 @@ hr {
 
 .promo-item {
   flex: 0 0 250px;
+  max-width: 250px;
 }
 
