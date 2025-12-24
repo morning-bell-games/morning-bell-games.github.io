@@ -133,3 +133,8 @@ hr {
 .arrow {
   font-size: .5em;
 }
+
+.video-caption{
+  color: #DarkGrey;
+  font-size: 0.8em;
+}
