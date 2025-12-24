@@ -97,10 +97,10 @@ hr {
   padding: 5px 10px;
   margin: 0 5px;
   border-radius: 5px;
-  border: 2px dotted;
+  border: 1px solid;
   border-color: #202020;
   font-size: 1.3em;
-  background-color: #202020;
+  background-color: #151515;
 }
 
 .nav-links a:hover {
