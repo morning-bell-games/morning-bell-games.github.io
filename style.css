@@ -68,10 +68,12 @@ hr {
   border-radius: 15px 15px 0 0;
   text-align: center;
   height: 4em;
+  display: flex;
+  align-items: center;
 }
 
 .title-text-box {
-  margin: 100px;
+  flex-shrink: 0;
 }
 
 .item {
