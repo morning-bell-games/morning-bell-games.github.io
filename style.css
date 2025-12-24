@@ -134,7 +134,7 @@ hr {
   font-size: .5em;
 }
 
-.video-caption{
+figcaption {
   color: #DarkGrey;
   font-size: 0.8em;
 }
