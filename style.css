@@ -13,8 +13,9 @@ header {
   border-left: 1px;
   border-right: 1px;
   border-bottom: 1px;
+  border-top: 0px;
   border-style: solid;
-  border-color: grey;
+  border-color: DarkGrey;
   padding: 20px 0;
 }
 
@@ -50,8 +51,9 @@ footer {
   border-left: 1px;
   border-right: 1px;
   border-top: 1px;
+  border-bottom: 0px;
   border-style: solid;
-  border-color: grey;
+  border-color: DarkGrey;
 }
 
 hr {
@@ -75,8 +77,9 @@ hr {
   border-left: 1px;
   border-right: 1px;
   border-bottom: 1px;
+  border-top: 0px;
   border-style: solid;
-  border-color: grey;
+  border-color: DarkGrey;
 }
 
 .nav-links a {
