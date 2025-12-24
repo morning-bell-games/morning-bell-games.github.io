@@ -71,6 +71,7 @@ hr {
   color: white;
   background-color: chocolate;
   transition: all 350ms linear;
+  font-size: 1.3em;
 }
 
 .nav-links a:hover {
