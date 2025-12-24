@@ -99,6 +99,7 @@ hr {
   border: 2px dotted;
   border-color: #202020;
   font-size: 1.3em;
+  background-color: #202020;
 }
 
 .nav-links a:hover {
