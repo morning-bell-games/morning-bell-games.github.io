@@ -79,8 +79,13 @@ hr {
   font-size: 1.3em;
 }
 
-.nav-links span{
+.current-page{
   font-size: 1.3em;
+}
+
+.vr {
+  border-right: 1px
+  border-color: grey;
 }
 
 .nav-links a:hover {
