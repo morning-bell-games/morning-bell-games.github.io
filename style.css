@@ -76,6 +76,10 @@ hr {
   font-size: 1.3em;
 }
 
+.nav-links span{
+  font-size: 1.3em;
+}
+
 .nav-links a:hover {
   background-color: white;
   color: chocolate;
