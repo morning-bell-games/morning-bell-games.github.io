@@ -2,20 +2,20 @@ body {
   background-color: #191919;
   color: white;
   margin: 0px;
-  padding: 0px 20px 0px 20px;
+  padding: 0px 20px;
 }
 
 header {
   text-align: center;
   background-color: #090909;
-  margin: 0 10px 0 10px;
+  margin: 0 10px;
   border-radius: 0 0 15px 15px;
-  padding: 20px 0 20px 0;
+  padding: 20px 0;
 }
 
 main {
   max-width: 720px;
-  margin: 20px auto 20px auto;
+  margin: 20px auto;
 }
 
 h1, h2, h3, h4 {
@@ -39,9 +39,9 @@ a {
 footer {
   text-align: center;
   background-color: #090909;
-  margin: 0 10px 0 10px;
+  margin: 0 10px;
   border-radius: 15px 15px 0 0;
-  padding: 20px 0 20px 0;
+  padding: 20px 0;
 }
 
 hr {
@@ -52,7 +52,7 @@ hr {
 
 .title {
   background-color: chocolate;
-  padding: 10px 0 10px 0;
+  padding: 10px 0;
   border-radius: 15px 15px 0 0;
   text-align: center;
 }
@@ -65,8 +65,7 @@ hr {
 }
 
 .nav-links a {
-  width: 50px;
-  padding: 5px;
+  padding: 5px 10px;
   border-radius: 5px;
   color: white;
   background-color: chocolate;
@@ -87,11 +86,11 @@ hr {
 
 .promo-item {
   flex: 1 0 250px;
-  margin: 0 5px 0 5px;
+  margin: 0 5px;
   height: 100%;
 }
 
 .pullout {
-  padding: 20px 20px 40px 20px;
+  padding: 20px 60px 40px 60px;
 }
 
