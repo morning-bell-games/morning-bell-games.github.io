@@ -8,9 +8,9 @@ body {
 header {
   text-align: center;
   background-color: #090909;
-  margin: 0px 20px 0px 20px;
-  border-radius: 0px 0px 15px 15px;
-  padding: 20px 0px 20px 0px;
+  margin: 0 10px 0 10px;
+  border-radius: 0 0 15px 15px;
+  padding: 20px 0 20px 0;
 }
 
 main {
@@ -35,7 +35,7 @@ a {
 footer {
   text-align: center;
   background-color: #090909;
-  margin: 0 20px 0 20px;
+  margin: 0 10px 0 10px;
   border-radius: 15px 15px 0 0;
   padding: 20px 0 20px 0;
 }
