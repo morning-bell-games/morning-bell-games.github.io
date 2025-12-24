@@ -10,7 +10,9 @@ header {
   background-color: #090909;
   margin: 0 10px;
   border-radius: 0 0 15px 15px;
-  border: 0 1px 1px 1px;
+  border-left: 2px;
+  border-right: 2px;
+  border-bottom: 2px;
   border-color: grey;
   padding: 20px 0;
 }
@@ -44,7 +46,9 @@ footer {
   margin: 0 10px;
   border-radius: 15px 15px 0 0;
   padding: 20px 0;
-  border: 1px 1px 0 1px;
+  border-left: 2px;
+  border-right: 2px;
+  border-top: 2px;
   border-color: grey;
 }
 
@@ -66,7 +70,9 @@ hr {
   padding: 5px 5px 5px 20px;
   border-radius: 0 0 15px 15px;
   margin-bottom: 20px;
-  border: 0 1px 1px 1px;
+  border-left: 2px;
+  border-right: 2px;
+  border-bottom: 2px;
   border-color: grey;
 }
 
@@ -84,7 +90,7 @@ hr {
 }
 
 .vr {
-  border-right: 1px
+  border-right: 2px
   border-color: grey;
   display: inline;
   width: 2px;
