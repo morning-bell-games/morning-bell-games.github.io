@@ -84,6 +84,7 @@ hr {
 
 .nav-links a {
   padding: 5px 10px;
+  margin: 0 5px;
   border-radius: 5px;
   color: white;
   background-color: chocolate;
@@ -96,19 +97,6 @@ hr {
   border-radius: 5px;
   border: 2px dotted;
   font-size: 1.3em;
-}
-
-.vr {
-  border-color: grey;
-  border-style: solid;
-  border-right: 2px;
-  border-left: 0px;
-  border-top: 0px;
-  border-bottom: 0px;
-  display: inline;
-  width: 5px;
-  height: 100%;
-  margin: 0 10px 0 5px;
 }
 
 .nav-links a:hover {
