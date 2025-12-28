@@ -33,8 +33,9 @@ h3 {
   margin: 0;
 }
 
-h4 {
-  margin:0
+.subtitle {
+  text-align: center;
+  margin: 0;
 }
 
 a {
