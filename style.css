@@ -91,23 +91,22 @@ hr {
   border-color: #202020;
 }
 
-.nav-links a {
+.nav-links a, .current-page {
   padding: 5px 10px;
   margin: 0 5px;
   border-radius: 5px;
-  color: white;
-  background-color: chocolate;
-  transition: all 350ms linear;
   font-size: 1.15rem;
 }
 
+.nav-links a {
+  color: white;
+  background-color: chocolate;
+  transition: all 350ms linear;
+}
+
 .current-page{
-  padding: 5px 10px;
-  margin: 0 5px;
-  border-radius: 5px;
   border: 1px solid;
   border-color: #202020;
-  font-size: 1.3rem;
   background-color: #151515;
 }
 
