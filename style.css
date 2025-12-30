@@ -1,9 +1,6 @@
 body {
-  background-color: #151515;
-  /*
-  make pixel art pattern bg that repeats
-  background-image: url('site-bg.jpg';
-  */
+  /* background-color: #151515; */
+  background-image: url('images/mbg-site-bg.jpg';
   color: white;
   margin: 0px;
   padding: 0px 20px;
