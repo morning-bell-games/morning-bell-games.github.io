@@ -2,6 +2,7 @@ body {
   /* background-color: #151515; */
   background-image: url('images/mbg-site-bg.jpg');
   background-size: cover;
+  background-position: center;
   color: white;
   margin: 0px;
   padding: 0px 20px;
