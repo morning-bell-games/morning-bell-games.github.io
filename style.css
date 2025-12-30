@@ -20,6 +20,7 @@ header {
   border-style: solid;
   border-color: #202020;
   padding: 20px 0;
+  max-width: 1000px;
 }
 
 main {
@@ -67,6 +68,7 @@ footer {
   border-bottom: 0px;
   border-style: solid;
   border-color: #202020;
+  max-width: 1000px;
 }
 
 hr {
