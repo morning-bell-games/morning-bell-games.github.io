@@ -1,5 +1,4 @@
 body {
-  /* background-color: #151515; */
   background-image: url('images/mbg-site-bg.jpg');
   background-size: cover;
   background-position: center;
@@ -10,7 +9,8 @@ body {
 
 header {
   text-align: center;
-  background-color: #090909;
+  /*background-color: #090909;*/
+  background-color: rgba(4,4,4,0.8);
   margin: 0 10px;
   border-radius: 0 0 15px 15px;
   border-left: 2px;
