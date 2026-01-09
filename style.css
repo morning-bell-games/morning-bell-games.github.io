@@ -166,4 +166,7 @@ figcaption {
     height: auto;
     margin-bottom: 0;
   }
+  footer {
+    font-size: 0.6rem;
+  }
 }
