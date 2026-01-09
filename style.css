@@ -164,12 +164,6 @@ figcaption {
 }
 
 @media only screen and (max-width:600px) {
-  
-  .title-logo img {
-    width: 95%;
-    height: auto;
-    margin-bottom: 0;
-  }
 
   body {
     padding: 0 10px;
