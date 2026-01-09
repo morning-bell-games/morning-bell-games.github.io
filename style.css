@@ -171,5 +171,9 @@ figcaption {
   footer {
     font-size: 0.6rem;
   }
+
+  .pullout {
+    padding: 20px 0 40px 0;
+  }
   
 }
