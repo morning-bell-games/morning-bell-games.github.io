@@ -148,6 +148,8 @@ hr {
 
 .pullout {
   padding: 20px 60px 40px 60px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .arrow {
