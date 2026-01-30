@@ -170,9 +170,14 @@ hr {
   background-color: #151515;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .nav-links a:hover {
   background-color: white;
   color: var(--accentColor);
+  text-decoration: none;
 }
 
 .promo-container {
