@@ -1,7 +1,35 @@
+@import url("https://use.typekit.net/yvm8vbi.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* font info
+Trajan Pro 3 Light
+font-family: "trajan-pro-3", serif;
+font-weight: 300;
+font-style: normal;
+
+Trajan Pro 3 Regular
+font-family: "trajan-pro-3", serif;
+font-weight: 400;
+font-style: normal;
+
+Trajan Pro 3 Bold
+font-family: "trajan-pro-3", serif;
+font-weight: 700;
+font-style: normal;
+
+Monserrat
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+*/
+
 :root {
   --backgroundColor: rgba(4,4,4,0.7);
   --accentColor: chocolate;
   --borderColor: #202020;
+  --default-font: "montserrat", sans-serif;
+  --heading-font: "trajan-pro-3", serif;
 }
 
 body {
@@ -11,6 +39,7 @@ body {
   color: white;
   margin: 0px;
   padding: 0px 20px;
+  font-family: var(--default-font);
 }
 
 header {
@@ -44,6 +73,7 @@ main {
 }
 
 h1, h2, h3, h4 {
+  font-family: var(--heading-font);
   text-align: center;
 }
 
