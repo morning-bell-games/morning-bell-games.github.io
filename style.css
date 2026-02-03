@@ -80,9 +80,8 @@ main {
 }
 
 .optix {
-  font-family: "havelock-tilting-variable",sans-serif;
-  font-variation-settings: 'wght' 600;
-  font-size: 1.8rem;
+  font-family: "havelock-titling-variable",sans-serif;
+  font-variation-settings: 'wght' 300;
 }
 
 .footy-cards{
