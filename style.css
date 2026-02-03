@@ -78,7 +78,7 @@ main {
 
 .optix {
   font-family: "havelock-ing-variable",sans-serif;
-  font-weight: 300;
+  font-variation-settings: 'wght' 600;
   font-size: 1.8rem;
 }
 
@@ -102,7 +102,7 @@ h3 {
 .subtitle {
   text-align: center;
   margin: -5px 0 0 0;
-  font-weight: 300;
+  font-variation-settings: 'wght' 300;
 }
 
 a {
