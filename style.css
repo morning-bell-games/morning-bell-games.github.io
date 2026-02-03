@@ -26,8 +26,9 @@ font-style: normal;
 */
 
 :root {
-  --backgroundColor: rgba(4,4,4,0.7);
+  --backgroundColor: rgba(4,4,4,0.6);
   --accentColor: chocolate;
+  --accentBGColor: rgb(210, 105, 30, 0.6) 
   --borderColor: #202020;
   --default-font: "montserrat", sans-serif;
   --heading-font: "trajan-pro-3", serif;
@@ -127,7 +128,7 @@ hr {
 }
 
 .title {
-  background-color: var(--accentColor);
+  background-color: var(--accentBGColor);
   padding: 10px 0;
   border-radius: 15px 15px 0 0;
   text-align: center;
