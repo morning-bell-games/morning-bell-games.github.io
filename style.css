@@ -24,6 +24,10 @@ font-family: "Montserrat", sans-serif;
 font-optical-sizing: auto;
 font-weight: <weight>;
 font-style: normal;
+
+Havelock
+font-family: "havelock-titling-variable",sans-serif;
+font-variation-settings: 'wght' 300;
 */
 
 :root {
