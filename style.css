@@ -29,7 +29,7 @@ font-style: normal;
 :root {
   --backgroundColor: rgba(4,4,4,0.6);
   --accentColor: chocolate;
-  --accentBGColor: rgba(210, 105, 30, 0.6); 
+  --accentBGColor: rgba(210, 105, 30, 0.85); 
   --borderColor: #202020;
   --default-font: "montserrat", sans-serif;
   --heading-font: "trajan-pro-3", serif;
