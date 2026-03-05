@@ -205,6 +205,12 @@ hr {
   transform: translateY(0) translateX(-50%);
 }
 
+#dropdown-menu a {
+  display: block;
+  padding: 5px 10px;
+  margin: 20px 5px;
+}
+
 .arrow1 {
   font-size: .8rem;
 }
