@@ -1,5 +1,6 @@
 const navButton = document.getElementById("nav-button")
 const dropdownMenu = document.getElementById("droppdown-menu")
+console.log(navButton)
 console.log(dropdownMenu)
 
 navButton.addEventListener("click", () => {
