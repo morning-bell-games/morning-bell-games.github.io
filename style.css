@@ -216,7 +216,7 @@ hr {
   text-decoration: none;
 }
 
-.nav-links > .link:focus + #dropdown-menu {
+.nav-links > #nav-button:focus + #dropdown-menu {
   opacity: 1;
 }
 
