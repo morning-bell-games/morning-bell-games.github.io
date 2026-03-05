@@ -173,14 +173,14 @@ hr {
   margin-top: 0;
 }
 
-.nav-links a, .current-page {
+.nav-links a, .current-page, #nav-button {
   padding: 5px 10px;
   margin: 0 5px;
   border-radius: 5px;
   font-size: .95rem;
 }
 
-.nav-links a {
+.nav-links a, #nav-button {
   color: white;
   background-color: var(--accentColor);
   transition: all 350ms linear;
@@ -193,7 +193,7 @@ hr {
   background-color: #151515;
 }
 
-.nav-links a:hover {
+.nav-links a:hover, #nav-button:hover {
   background-color: white;
   color: var(--accentColor);
   text-decoration: none;
