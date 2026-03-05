@@ -189,14 +189,13 @@ hr {
 #dropdown-menu {
   position: absolute;
   left: 50%;
-  transform: translateX(-50px);
   background-color: var(--backgroundColor);
   border: 1px solid var(--borderColor);
   border-radius: 5px;
   top: calc(100% + .25rem);
   opacity: 0;
   pointer-events: none;
-  transform: translateY(-10px);
+  transform: translateY(-10px), translateX(-50%);
   transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
@@ -204,6 +203,10 @@ hr {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);
+}
+
+.arrow {
+  font-size: .9rem;
 }
 
 .nav-links a, #nav-button {
