@@ -186,6 +186,17 @@ hr {
   font-size: .95rem;
 }
 
+#dropdown-menu {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--backgroundColor);
+  border: 1px solid var(--borderColor);
+  border-radius: 5px;
+  top: calc(100% + .25rem);
+  opacity: 0;
+}
+
 .nav-links a, #nav-button {
   color: white;
   background-color: var(--accentColor);
@@ -230,16 +241,6 @@ figcaption {
   color: darkgrey;
   font-size: 0.8rem;
   font-style: italic;
-}
-
-#dropdown-menu {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: var(--backgroundColor);
-  border: 1px solid var(--borderColor);
-  border-radius: 5px;
-  top: calc(100% + .25rem);
 }
 
 @media only screen and (max-width:600px) {
