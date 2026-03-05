@@ -192,7 +192,7 @@ hr {
   background-color: var(--backgroundColor);
   border: 1px solid var(--borderColor);
   border-radius: 5px;
-  top: calc(100% + .5rem);
+  top: calc(100% + 10px);
   opacity: 0;
   pointer-events: none;
   transform: translateY(-10px), translateX(-50%);
@@ -202,7 +202,7 @@ hr {
 #dropdown-menu.visible {
   opacity: 1;
   pointer-events: auto;
-  transform: translateY(0);
+  transform: translateY(0), translateX(-50%);
 }
 
 .arrow {
