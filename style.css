@@ -200,11 +200,7 @@ hr {
   transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
-#nav-button:focus {
-  color:pink;
-}
-
-#nav-button:focus + #dropdown-menu {
+#dropdown-menu .visible {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);
