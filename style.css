@@ -175,7 +175,7 @@ hr {
 }
 
 #nav-button {
-  border: 1px solid;
+  border: none;
   font-family: var(--default-font);
 }
 
