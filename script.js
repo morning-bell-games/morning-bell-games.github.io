@@ -3,6 +3,9 @@ const dropdownMenu = document.getElementById("dropdown-menu")
 
 navButton.addEventListener("click", () => {
     dropdownMenu.classList.toggle("visible")
-    console.log(dropdownMenu.classList)
-    navButton.innerHTML = "<span class='arrow'>&#8595;</span>Games"
+    if (dropdownMenu.classList.contains("visible")) {
+        navButton.innerHTML = "<span class='arrow'>&#8593;</span>Games"
+    } else {
+        navButton.innerHTML = "<em>></em>Games"
+    }
 })

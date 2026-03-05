@@ -200,7 +200,7 @@ hr {
   transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
-#dropdown-menu .visible {
+#dropdown-menu.visible {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);
