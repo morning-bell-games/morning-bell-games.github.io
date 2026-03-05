@@ -195,14 +195,14 @@ hr {
   top: calc(100% + 10px);
   opacity: 0;
   pointer-events: none;
-  transform: translateY(-10px), translateX(-50%);
+  transform: translateY(-10px), translateX(-250%);
   transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
 #dropdown-menu.visible {
   opacity: 1;
   pointer-events: auto;
-  transform: translateY(0), translateX(-50%);
+  transform: translateY(0), translateX(-250%);
 }
 
 .arrow {
