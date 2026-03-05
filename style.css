@@ -189,7 +189,7 @@ hr {
 #dropdown-menu {
   position: absolute;
   left: 50%;
-  transform: translateX(-100%);
+  transform: translateX(-50px);
   background-color: var(--backgroundColor);
   border: 1px solid var(--borderColor);
   border-radius: 5px;
