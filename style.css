@@ -205,8 +205,12 @@ hr {
   transform: translateY(0) translateX(-50%);
 }
 
-.arrow {
+.arrow1 {
   font-size: .8rem;
+}
+
+.arrow1 {
+  font-size: .7rem;
 }
 
 .nav-links a, #nav-button {
