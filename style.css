@@ -171,6 +171,7 @@ hr {
 
 .nav-links {
   margin-top: 0;
+  position: relative;
 }
 
 .nav-links a, .current-page, #nav-button {
@@ -224,6 +225,10 @@ figcaption {
   color: darkgrey;
   font-size: 0.8rem;
   font-style: italic;
+}
+
+#dropdown-menu {
+  position: absolute;
 }
 
 @media only screen and (max-width:600px) {
