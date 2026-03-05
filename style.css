@@ -232,7 +232,7 @@ hr {
   background-color: #151515;
 }
 
-.nav-links a:hover, #nav-button:hover {
+.nav-links a:hover, #nav-button:hover, #nav-button.active {
   background-color: white;
   color: var(--accentColor);
   text-decoration: none;
