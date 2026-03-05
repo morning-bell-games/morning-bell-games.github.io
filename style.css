@@ -174,7 +174,12 @@ hr {
   position: relative;
 }
 
-.nav-links a, .current-page, #nav-button {
+#nav-button {
+  border: 1px solid;
+  font-family: var(--default-font);
+}
+
+.nav-links a, .current-page, #nav-button, #dropdown-menu {
   padding: 5px 10px;
   margin: 0 5px;
   border-radius: 5px;
