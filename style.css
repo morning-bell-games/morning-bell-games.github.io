@@ -31,6 +31,7 @@ font-variation-settings: 'wght' 300;
 
 :root {
   --backgroundColor: rgba(4,4,4,0.6);
+  --backgroundColorThick: rgba(4,4,4,0.9);
   --accentColor: chocolate;
   --accentBGColor: rgba(210, 105, 30, 0.85); 
   --borderColor: #202020;
@@ -189,7 +190,7 @@ hr {
 #dropdown-menu {
   position: absolute;
   left: 50%;
-  background-color: black;
+  background-color: var(--backgroundColorThick);
   border: 1px solid var(--borderColor);
   border-radius: 5px;
   top: calc(100% + 10px);
