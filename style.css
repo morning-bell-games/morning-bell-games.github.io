@@ -195,6 +195,13 @@ hr {
   border-radius: 5px;
   top: calc(100% + .25rem);
   opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
+}
+
+#nav-button:focus + #dropdown-menu {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .nav-links a, #nav-button {
@@ -214,10 +221,6 @@ hr {
   background-color: white;
   color: var(--accentColor);
   text-decoration: none;
-}
-
-.nav-links > #nav-button:focus + #dropdown-menu {
-  opacity: 1;
 }
 
 .promo-container {
