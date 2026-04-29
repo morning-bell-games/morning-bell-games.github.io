@@ -215,7 +215,7 @@ hr {
   transform: translateY(0) translateX(-50%);
 }
 
-#dropdown-menu a {
+#dropdown-menu a, #dropdown-menu .current-page {
   display: block;
   padding: 5px 10px;
   margin: 10px 5px;
