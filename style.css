@@ -193,7 +193,8 @@ hr {
 }
 
 .item a {
-  width: 100%;
+  left: auto;
+  right: auto;
 }
 
 #dropdown-menu {
