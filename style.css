@@ -166,6 +166,11 @@ hr {
   border-color: var(--borderColor);
 }
 
+.item link {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
 .promo-vid {
   text-align: center;
 }
