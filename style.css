@@ -166,7 +166,7 @@ hr {
   border-color: var(--borderColor);
 }
 
-.item link {
+.item-link {
   width: 100%;
   margin-bottom: 5px;
 }
