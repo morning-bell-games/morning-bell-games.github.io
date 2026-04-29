@@ -180,7 +180,7 @@ hr {
   font-family: var(--default-font);
 }
 
-.nav-links a, .current-page, #nav-button, #dropdown-menu {
+.nav-links a, .current-page, #nav-button, #dropdown-menu, .item a {
   padding: 5px 10px;
   margin: 0 5px;
   border-radius: 5px;
@@ -220,7 +220,7 @@ hr {
   font-size: .7rem;
 }
 
-.nav-links a, #nav-button {
+.nav-links a, #nav-button, .item a {
   color: white;
   background-color: var(--accentColor);
   transition: all 350ms linear;
@@ -233,7 +233,7 @@ hr {
   background-color: #151515;
 }
 
-.nav-links a:hover, #nav-button:hover, #nav-button.active {
+.nav-links a:hover, #nav-button:hover, #nav-button.active, .item a:hover {
   background-color: white;
   color: var(--accentColor);
   text-decoration: none;
@@ -270,6 +270,7 @@ footer img {
 
 footer img:hover {
   filter: saturate(0%) brightness(300%);
+  transition: all 350ms linear;
 }
 
 @media only screen and (max-width:600px) {
