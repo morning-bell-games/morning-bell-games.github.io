@@ -266,6 +266,10 @@ figcaption {
   font-style: italic;
 }
 
+.figcaption-centred {
+  text-align: center;
+}
+
 footer img {
   width: 40px;
   height: 40px;
