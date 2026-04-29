@@ -270,6 +270,12 @@ figcaption {
   text-align: center;
 }
 
+.copyright {
+  color: darkgrey;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
 footer img {
   width: 40px;
   height: 40px;
