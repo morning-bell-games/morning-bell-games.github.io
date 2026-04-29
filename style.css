@@ -169,12 +169,12 @@ hr {
 .item-link {
   width: 100%;
   text-align: center;
+  padding-bottom: 10px;
 }
 
 .item-link a {
   display: block;
   padding: 5px 0;
-  margin-bottom: 10px;
 }
 
 .promo-vid {
